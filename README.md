@@ -16,8 +16,7 @@ pre-requiste for installing this software
    set project name same as it is project name in htdocs folder
 4. for accessing admin link go to localhost/<projectname>/admin
 5. after this you will find the database credential setting 
-  see the screenshot below
-   ![Alt text](/assets/images/about.jpg?raw=true "Optional Title")
+
 6 after filling that information , go to login page '/admin/login.php' and login with admin credential.
    
 > In order to see the live link for the respective app  you can clcik on thsi link and take a demo test befor installing.
