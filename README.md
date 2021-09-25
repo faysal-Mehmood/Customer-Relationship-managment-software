@@ -18,5 +18,11 @@ pre-requiste for installing this software
 5. after this you will find the database credential setting 
   see the screenshot below
 6 after filling that information , go to login page '/admin/login.php' and login with admin credential.
+   
+> In order to see the live link for the respective app  you can clcik on thsi link and take a demo test befor installing.
+> this is the link for end user http://canandianoutsoursingsolutions.com/
+> for admin access: http://canandianoutsoursingsolutions.com/admin/login.php  and for admin credential feel free to contact me
+
+ thanks
  
 
